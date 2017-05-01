@@ -1,0 +1,55 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class PagesController extends Controller
+{
+	public function getIndex() 
+	{
+		return view('pages.home.index');
+	}
+
+	public function getWomen() 
+	{
+		return view('pages.women.index');
+	}
+
+	public function getWomenMenu() 
+	{
+		return view('pages.women.menu.index');
+	}
+
+	public function getPreview() 
+	{
+		return view('pages.preview.index');
+	}
+
+	public function getCart() 
+	{
+		return view('pages.cart.index');
+	}
+
+	public function getWishlist() 
+	{
+		return view('pages.wishlist.index');
+	}
+
+	public function getCheckout() 
+	{
+		return view('pages.checkout.index');
+	}
+
+	public function getPayment() 
+	{
+		return view('pages.payment.index');
+	}
+
+	public function getReview() 
+	{
+		return view('pages.review.index');
+	}
+}
+
+?>

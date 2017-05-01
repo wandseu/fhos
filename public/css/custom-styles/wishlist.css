@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+}
+
+.wishlist {
+	margin-top: 50px;
+}
+
+.wishlist h3 {
+	font-family: "Bebas";
+}
+
+.details h5 {
+	font-family: "Bebas"; 
+}
+
+.details p {
+	font-family: "Letter Gothic Std";
+	font-size: 12px;
+}
+
+#cart {
+	border-style: none;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	height: 40px;
+	font-size: 12px; 
+	font-family: "Letter Gothic Std";
+}
+
+#cart:hover {
+	border: solid 1px;
+	background-color: #fff;
+	color: #000;
+	width: 100%;
+	height: 40px;
+	font-size: 12px;
+}

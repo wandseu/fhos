@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+}
+
+nav.navbar-findcond { background: #000; font-family: "Orator Std"; font-size: 16px; }
+nav.navbar-findcond a { color: #fff; }
+nav.navbar-findcond ul.navbar-nav a { color: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover,
+nav.navbar-findcond ul.navbar-nav a:visited,
+nav.navbar-findcond ul.navbar-nav a:focus,
+nav.navbar-findcond ul.navbar-nav a:active { background: #111; }
+nav.navbar-findcond ul.navbar-nav a:hover { border-color: #fff; }
+nav.navbar-findcond li.divider { background: #ccc; }
+nav.navbar-findcond button.navbar-toggle { background: #fff; border-radius: 50px; }
+nav.navbar-findcond button.navbar-toggle:hover { background: #999; }
+nav.navbar-findcond button.navbar-toggle > span.icon-bar { background: #000; }
+nav.navbar-findcond ul.dropdown-menu { border: none; background: #111; border-radius: 4px; margin: 4px 0; box-shadow: 0 0 4px 0 #ccc; }
+nav.navbar-findcond ul.dropdown-menu > li > a { color: #fff; }
+nav.navbar-findcond ul.dropdown-menu > li > a:hover { background: #fff; color: #000; }
+nav.navbar-findcond span.badge { background: #f14444; font-weight: normal; font-size: 11px; margin: 0 4px; }
+nav.navbar-findcond span.badge.new { background: rgba(255, 0, 0, 0.8); color: #fff; }
+
+#fbms-logo {
+	height: 40px;
+	margin-top: -8px;
+}
+
+#nav-search {
+	margin-top: 5px;
+	height: 25px;
+	width: 320px;
+}
+
+#nav-btn-search {
+	margin-top: 5px;
+	height: 25px; 	
+}
+
+.carousel {
+	margin-top: 50px;
+	height: 100%;
+	text-align: center;
+	font-family: "Bebas";
+}
+
+.just-arrived {
+	font-family: "Bebas";
+}
+
+.just-arrived img {
+	opacity: 1.0;
+}
+
+.just-arrived img:hover {
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+.page-content-wrapper {
+	height: 100%;
+}
+
+iframe {
+	width: 100%;
+	height: 1000px;	
+	margin: 0;
+	padding: 0;
+	border: none;
+	overflow: hidden;
+}

@@ -1,0 +1,91 @@
+.preview {
+	margin-top: 80px;
+}
+
+.size li a {
+	font-size: 12px;
+}
+
+.color li a {
+	font-size: 12px;
+}
+
+.apparel-details {
+	font-family: "Roboto";
+}
+
+.apparel-details p {
+	font-size: 12px;
+	text-align: justify;
+}
+
+.apparel-details h3, h5 {
+	font-family: "Bebas";
+}
+
+.rating {
+	margin-bottom: 10px;
+}
+
+.boxed-details {
+	font-family: "Letter Gothic Std";
+	border: solid 1px;
+	width: 100%;
+	padding: 15px;
+}
+
+.contact {
+	margin-top: 20px;
+	padding: 10px;
+	font-family: "Letter Gothic Std";
+	background-color: #F3F2F2;
+	font-size: 11px;
+	text-align: center;
+}
+
+.boxed-details p {
+	font-size: 12px;
+	text-align: justify;
+}
+
+.share img {
+	margin-right: 0px;
+	margin-bottom: 10px;
+}
+
+#cart {
+	border-style: none;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	height: 40px;
+	font-size: 12px;
+}
+
+#cart:hover {
+	border: solid 1px;
+	background-color: #fff;
+	color: #000;
+	width: 100%;
+	height: 40px;
+	font-size: 12px;
+}
+
+#wish {
+	margin-top: 5px;
+	border: solid 1px;
+	background-color: #fff;
+	color: #000;
+	width: 100%;
+	height: 40px;
+	font-size: 12px;
+}
+
+#wish:hover {
+	border-style: none;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	height: 40px;
+	font-size: 12px;
+}

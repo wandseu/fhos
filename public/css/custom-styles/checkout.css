@@ -1,0 +1,71 @@
+.customer-details {
+	background-color: #DFDFDF;
+	font-family: "Roboto";
+	padding: 20px;
+}
+
+.customer-details h4 {
+	font-family: "Bebas";
+	margin-bottom: 20px;
+}
+
+.customer-details input {
+	height: 30px;
+	font-size: 11px;
+}
+
+.shipping-details {
+	background-color: #DFDFDF;
+	font-family: "Roboto";
+	padding: 20px;
+	margin-left: 50px;
+}
+
+.shipping-details h4 {
+	font-family: "Bebas";
+	margin-bottom: 20px;
+}
+
+.shipping-details input {
+	height: 30px;
+	font-size: 11px;
+}
+
+.gender {
+	height: 30px;
+	font-size: 11px;
+	margin-bottom: 15px;	
+}
+
+#review:hover {
+	font-family: "Letter Gothic Std";
+	margin-top: 20px;
+	margin-left: 40px;
+	border: solid 1px;
+	background-color: #fff;
+	color: #000;
+	width: 100%;
+	height: 50px;
+	font-size: 12px;
+}
+
+#review {
+	font-family: "Letter Gothic Std";
+	margin-top: 20px;
+	margin-left: 40px;
+	border-style: none;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	height: 50px;
+	font-size: 12px;
+}
+
+#mobNo {
+	margin-left: -15px;
+}
+
+#telNo {
+	margin-left: 15px;
+}
+
