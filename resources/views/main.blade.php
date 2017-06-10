@@ -8,6 +8,7 @@
     <title>28 Fashion Hub</title>
 
     <!-- Bootstrap -->
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/bootstrap/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/bootstrap/bootstrap-select.min.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/bootstrap/bootstrap-theme.min.css') }}">
@@ -17,6 +18,9 @@
 
     <!-- HOVER -->
       <link rel="stylesheet" href="{{ asset('/css/hover.css') }}" media="all">
+
+      <!-- FONTAWESOME -->
+     <link rel="stylesheet" href="{{ asset('/css/font-awesome.min.css') }}">
 
     <!-- C U S T O M  S T Y L E S -->
 

@@ -14,72 +14,71 @@
 				<div class="collapse navbar-collapse" id="navbar">
 					<ul class="nav navbar-nav navbar-left">
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-fw fa-bell-o"></i> WOMEN </a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> WOMEN </a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="{{ url('/women') }}" style="font-weight: 800; padding-top: 20px;"><i class="fa fa-fw fa-tag"></i>WOMEN'S CLOTHING</a></li><hr>
+								<li><a href="{{ url('/women') }}" style="font-weight: 800; padding-top: 20px;"></i>WOMEN'S CLOTHING</a></li><hr>
 
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>TOPS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>DRESSES</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SHORTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SKIRTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>JUMPSUITS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>PANTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>JEANS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SPORTS PERFROMANCE</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SWIMWEAR</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>JACKETS & VESTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>PLUS SIZE</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>+ VIEW ALL</a></li>
+								<li><a href="#" style="font-size: 12px;"">TOPS</a></li>
+								<li><a href="#" style="font-size: 12px;"">DRESSES</a></li>
+								<li><a href="#" style="font-size: 12px;"">SHORTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">SKIRTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">JUMPSUITS</a></li>
+								<li><a href="#" style="font-size: 12px;"">JEANS</a></li>
+								<li><a href="#" style="font-size: 12px;"">SPORTS PERFROMANCE</a></li>
+								<li><a href="#" style="font-size: 12px;"">SWIMWEAR</a></li>
+								<li><a href="#" style="font-size: 12px;"">JACKETS & VESTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">PLUS SIZE</a></li>
+								<li><a href="#" style="font-size: 12px;"">+ VIEW ALL</a></li>
 							</ul>
 						</li>
 
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-fw fa-bell-o"></i> MEN </a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> MEN </a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="#" style="font-weight: 800; padding-top: 20px;"><i class="fa fa-fw fa-tag"></i>MEN'S CLOTHING</a></li><hr>
+								<li><a href="#" style="font-weight: 800; padding-top: 20px;">MEN'S CLOTHING</a></li><hr>
 
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SHIRTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>TSHIRTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>POLO SHIRTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>JACKETS & VESTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>CARDIGAN & SWEATERS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>HOODIES & SWEATSHIRTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>JEANS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>PANTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SHORTS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SUITS & BLAZERS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>SWIMWEAR</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>+ VIEW ALL</a></li>
+								<li><a href="#" style="font-size: 12px;"">SHIRTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">TSHIRTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">POLO SHIRTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">JACKETS & VESTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">CARDIGAN & SWEATERS</a></li>
+								<li><a href="#" style="font-size: 12px;"">HOODIES & SWEATSHIRTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">JEANS</a></li>
+								<li><a href="#" style="font-size: 12px;"">PANTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">SHORTS</a></li>
+								<li><a href="#" style="font-size: 12px;"">SUITS & BLAZERS</a></li>
+								<li><a href="#" style="font-size: 12px;"">SWIMWEAR</a></li>
+								<li><a href="#" style="font-size: 12px;"">+ VIEW ALL</a></li>
 							</ul>
 						</li>
 					</ul>
 
 					<ul class="nav navbar-nav navbar-right nav-right-icons">
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-fw fa-bell-o"></i><span class="glyphicon glyphicon-heart"></span><span class="badge">1</span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-heart"></i><span class="badge">1</span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="{{ url('/wishlist') }}" style="font-weight: 800; padding-top: 10px;"><i class="fa fa-fw fa-tag"></i>YOU HAVE 1 ITEM(S) IN YOUR WISHLIST</a></li>
+								<li><a href="{{ url('/wishlist') }}" style="font-weight: 800; padding-top: 10px;">YOU HAVE 1 ITEM(S) IN YOUR WISHLIST</a></li>
 							</ul>
 						</li>
 						
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-fw fa-bell-o"></i><span class="glyphicon glyphicon-shopping-cart"></span><span class="badge">1</span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-shopping-cart"></i><span class="badge">1</span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="{{ url('/cart') }}" style="font-weight: 800; padding-top: 10px;"><i class="fa fa-fw fa-tag"></i>YOU HAVE 1 ITEM(S) IN YOUR CART</a></li>
+								<li><a href="{{ url('/cart') }}" style="font-weight: 800; padding-top: 10px;">YOU HAVE 1 ITEM(S) IN YOUR CART</a></li>
 							</ul>
 						</li>
 
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-user"><span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="fa fa-user-circle-o"></span><span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="#" style="font-weight: 800; padding-top: 20px;"><i class="fa fa-fw fa-tag"></i>WELCOME BACK!</a></li><hr>
+								<li><a href="#" style="font-weight: 800; padding-top: 20px;">WELCOME BACK!</a></li><hr>
 
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>MY ACCOUNT</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>MY WALLET (PHP 0.00)</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>TRACK MY ORDERS</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>CONFIRM PAYMENT</a></li>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>HELP</a></li><hr>
-								<li><a href="#" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>LOGOUT</a></li>
+								<li><a href="#" style="font-size: 12px;"">MY ACCOUNT</a></li>
+								<li><a href="#" style="font-size: 12px;"">MY WALLET (PHP 0.00)</a></li>
+								<li><a href="#" style="font-size: 12px;"">TRACK MY ORDERS</a></li>
+								<li><a href="#" style="font-size: 12px;"">CONFIRM PAYMENT</a></li>
+								<li><a href="#" style="font-size: 12px;"">HELP</a></li><hr>
+								<li><a href="#" style="font-size: 12px;"">LOGOUT</a></li>
 							</ul>
 						</li>
 					</ul>

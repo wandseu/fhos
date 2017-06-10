@@ -13,25 +13,25 @@
 					  <!-- Wrapper for slides -->
 					  <div class="carousel-inner" role="listbox">
 					    <div class="item active">
-					      <img src="img/slide-1.png" alt="...">
+					      <img src="img/slideee-1.png" alt="...">
 					      <div class="carousel-caption">
-						    <h3>TOPS! TOPS! TOPS!</h3>
-						    <p>Keep in trend with these tops!</p>
+						    <h3></h3>
+						    <p></p>
 						  </div>
 					    </div>
 					    <div class="item">
-					      <img src="img/slide-3.png" alt="...">
+					      <img src="img/slideee-2.png" alt="...">
 					      <div class="carousel-caption">
-						    <h3>COLD WEATHER IS COMING</h3>
-						    <p>Knitted sweaters available</p>
+						    <h3></h3>
+						    <p></p>
 						  </div>
 					    </div>
 
 					    <div class="item">
-					      <img src="img/slide-4.png" alt="...">
+					      <img src="img/slideee-3.png" alt="...">
 					      <div class="carousel-caption">
-						    <h3>CUTE TEES</h3>
-						    <p>Cute t-shirts with patchesj,</p>
+						    <h3></h3>
+						    <p></p>
 						  </div>
 					    </div>
 					  </div>
