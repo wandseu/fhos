@@ -50,6 +50,21 @@ class PagesController extends Controller
 	{
 		return view('pages.review.index');
 	}
+
+	public function getCustomerService() 
+	{
+		return view('pages.customerservice.index');
+	}
+
+	public function getPaymentMethod() 
+	{
+		return view('pages.customerservice.paymentmethod');
+	}
+
+	public function getConfirmPayment() 
+	{
+		return view('pages.customerservice.confirmpayment');
+	}	
 }
 
 ?>

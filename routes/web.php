@@ -1,4 +1,4 @@
-`	<?php
+<?php
 
 /*
 |--------------------------------------------------------------------------
@@ -20,3 +20,7 @@ Route::get('/wishlist', 'PagesController@getWishlist');
 Route::get('/checkout', 'PagesController@getCheckout');
 Route::get('/payment', 'PagesController@getPayment');
 Route::get('/review', 'PagesController@getReview');
+Route::get('/customer-service', 'PagesController@getCustomerService');
+Route::get('pages.customerservice.paymentmethod', 'PagesController@getPaymentMethod');
+Route::get('pages.customerservice.confirmpayment', 'PagesController@getConfirmPayment');
+?>

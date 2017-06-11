@@ -51,6 +51,7 @@
 								<li><a href="#" style="font-size: 12px;"">+ VIEW ALL</a></li>
 							</ul>
 						</li>
+
 					</ul>
 
 					<ul class="nav navbar-nav navbar-right nav-right-icons">
@@ -76,7 +77,7 @@
 								<li><a href="#" style="font-size: 12px;"">MY ACCOUNT</a></li>
 								<li><a href="#" style="font-size: 12px;"">MY WALLET (PHP 0.00)</a></li>
 								<li><a href="#" style="font-size: 12px;"">TRACK MY ORDERS</a></li>
-								<li><a href="#" style="font-size: 12px;"">CONFIRM PAYMENT</a></li>
+								<li><a href="/customer-service" style="font-size: 12px;"">CUSTOMER SERVICE</a></li>
 								<li><a href="#" style="font-size: 12px;"">HELP</a></li><hr>
 								<li><a href="#" style="font-size: 12px;"">LOGOUT</a></li>
 							</ul>
