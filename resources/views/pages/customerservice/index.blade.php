@@ -4,7 +4,7 @@
 
 {{-- @include('pages.welcome.nav') --}}
 <div class="container">
-	<h2>Customer Service - Payment</h2>
+	<h2>Customer Service - Payment & Courier</h2>
 	<div class="row">
 		<div class="col-md-3" style="margin-left: -15px;">
 			<div class="categories">
