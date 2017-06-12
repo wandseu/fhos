@@ -10,14 +10,14 @@
 
 <div class="preview">
 	<div class = "col-md-3">
-		<img src = "img/Bangkok-Knitted.png" alt="Bangkok Knitted" id="bKnitted" class="hvr-bob"><br>
-		<h3 id="name">Bangkok Knitted</h3><hr>
-		<h4 id="price">PHP 150.00</h4>
+		<img src = "img/Bangkok-Knitted-1.png" alt="Bangkok Knitted" id="bKnitted" class="hvr-bob"><br>
+		{{-- <h3 id="name">Bangkok Knitted</h3><hr>
+		<h4 id="price">PHP 150.00</h4> --}}
 	</div>
 
 	<div class = "col-md-6 col-xs-12 hvr-bob">
-					<a href="{{ url('/preview') }}"><img src ="img/macy-jumpsuit-1.png" alt = "macy-jumpsuit" id = "macy-jumpsuit" style="width: 100%;"></a>
-				</div>
+		<a href="{{ url('/preview') }}"><img src ="img/new-arrival.png" alt = "macy-jumpsuit" id = "macy-jumpsuit" style="width: 100%;"></a>
+	</div>
 
 	{{-- <div class = "col-md-3">
 		<img src = "img/Bangkok-Knitted.png" alt="Bangkok Knitted" id="bKnitted">

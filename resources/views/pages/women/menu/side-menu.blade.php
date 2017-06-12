@@ -26,6 +26,7 @@
 		</form>
 
 		<h6>Color</h6>
+		{{-- <iframe src="" style="height: 200px; width: 100%; outline: none;"> --}}
 		<form>
 			<div class="checkbox">
 			    <label><input type="checkbox"> Beige</label><br>
@@ -47,6 +48,7 @@
 			    <label><input type="checkbox"> Yellow</label><br>
 			  </div>
 		</form>
+		{{-- </iframe> --}}
 	</div>
 </div>
 

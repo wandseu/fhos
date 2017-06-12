@@ -22,13 +22,13 @@
 			<div class="row col-md-12 col-xs-12">
 				{{-- <hr> --}}
 				<div class = "col-md-4 col-xs-12 hvr-bob">
-					<img src ="img/leather-skirts.png" alt = "discount" id = "discount" style="width: 100%; margin-bottom: 20px;">
+					<img src ="img/leather-skirts.png" alt = "leather-skirts" id = "leather-skirts" style="width: 100%; margin-bottom: 20px;">
 				</div>
 				<div class = "col-md-4 col-xs-12 hvr-bob">
-					<img src ="img/ripped-jeans.png" alt = "new arrival" id = "new_arrival" style="width: 100%; margin-bottom: 20px;">	
+					<img src ="img/ripped-jeans.png" alt = "ripped-jeans" id = "ripped-jeans" style="width: 100%; margin-bottom: 20px;">	
 				</div>
 				<div class = "col-md-4 col-xs-12 hvr-bob">
-					<img src ="img/sweat-shirts.png" alt = "new arrival" id = "new_arrival" style="width: 100%; margin-bottom: 20px;">	
+					<img src ="img/sweat-shirts.png" alt = "sweat-shirts" id = "sweat-shirts" style="width: 100%; margin-bottom: 20px;">	
 				</div>
 			</div>
 

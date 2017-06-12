@@ -7,7 +7,7 @@
 				<h3>CHECKOUT</h3><hr style="width: 1150px; margin-left: -20px;">
 			</div>
 
-			<div class="row col-md-5 col-xs-12 col-md-offset-1 customer-details">
+			{{-- <div class="row col-md-5 col-xs-12 col-md-offset-1 customer-details">
 				<h4>CUSTOMER DETAILS</h4>
 				<form>
 				  <div class="form-group">
@@ -36,9 +36,9 @@
 				</div>
 				  
 				</form>
-			</div>
+			</div> --}}
 
-			<div class="row col-md-5 col-xs-12 shipping-details">
+			<div class="col-md-6 col-xs-12 shipping-details">
 				<h4>SHIPPING DETAILS</h4>
 				<form>
 				  <div class="form-group">
