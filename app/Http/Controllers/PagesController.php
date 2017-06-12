@@ -64,7 +64,12 @@ class PagesController extends Controller
 	public function getConfirmPayment() 
 	{
 		return view('pages.customerservice.confirmpayment');
-	}	
+	}
+
+	public function getCourierList() 
+	{
+		return view('pages.customerservice.courierlist');
+	}
 }
 
 ?>

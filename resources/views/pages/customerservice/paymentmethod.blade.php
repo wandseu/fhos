@@ -12,7 +12,7 @@
 
 		<hr>
 
-		<h5s><b>BDO Installment</b></h5>
+		<h5><b>BDO Installment</b></h5>
 			<p>We offer 3-month, 6-month, 12-month, 18-month, and 24-month payment installments to all BDO credit cardholders.</p>
 			<img src="bank icon here">
 		<h5><b>How to pay for your purchase via BDO Credit Card Installment</b></h5>

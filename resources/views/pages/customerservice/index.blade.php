@@ -14,6 +14,13 @@
 					<li><a href="pages.customerservice.confirmpayment" target="iframe-content" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>Confirm Payment</a></li>
 				</ul>
 			</div>
+
+			<div class="categories">
+				<h4 style="font-weight: 1000">Couriers</h4><hr>
+				<ul role="menu">
+					<li><a href="pages.customerservice.courierlist" target="iframe-content" style="font-size: 12px;""><i class="fa fa-fw fa-thumbs-o-up"></i>List</a></li>
+				</ul>
+			</div>
 		</div>
 
 		<div class="col-md-9">
