@@ -70,6 +70,11 @@ class PagesController extends Controller
 	{
 		return view('pages.customerservice.courierlist');
 	}
+
+	public function getTrackOrder() 
+	{
+		return view('pages.account.trackOrder.index');
+	}
 }
 
 ?>
