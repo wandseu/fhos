@@ -1,3 +1,4 @@
+<div class="col-md-9">
 		<h3><b>Payment Methods</b></h3>
 
 		<br>
@@ -59,3 +60,4 @@
 		</p>
 
 		<hr>
+</div>

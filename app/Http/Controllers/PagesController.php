@@ -61,16 +61,6 @@ class PagesController extends Controller
 		return view('pages.customerservice.paymentmethod');
 	}
 
-	public function getConfirmPayment() 
-	{
-		return view('pages.customerservice.confirmpayment');
-	}
-
-	public function getCourierList() 
-	{
-		return view('pages.customerservice.courierlist');
-	}
-
 	public function getTrackOrder() 
 	{
 		return view('pages.account.trackOrder.index');

@@ -21,8 +21,6 @@ Route::get('/checkout', 'PagesController@getCheckout');
 Route::get('/payment', 'PagesController@getPayment');
 Route::get('/review', 'PagesController@getReview');
 Route::get('/customer-service', 'PagesController@getCustomerService');
-Route::get('pages.customerservice.paymentmethod', 'PagesController@getPaymentMethod');
-Route::get('pages.customerservice.confirmpayment', 'PagesController@getConfirmPayment');
-Route::get('pages.customerservice.courierlist', 'PagesController@getCourierList');
+Route::get('/paymentmethod', 'PagesController@getPaymentMethod');
 Route::get('/order', 'PagesController@getTrackOrder');
 ?>
